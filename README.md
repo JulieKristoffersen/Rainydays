@@ -1,2 +1,2 @@
-# Rainydays assignment
+# Rainyday
 Course assignment
